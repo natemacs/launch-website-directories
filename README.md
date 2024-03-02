@@ -1,2 +1,30 @@
-# launch-website-directories
-Curated list of websites to publish your saas or microsaas and increase your audience
+# Curated List of Websites to launch your saas or microsaas / Lista de Websites para lançar seu Saas ou Microsaas
+
+1. [Product Hunt](https://www.producthunt.com/)
+2. [Indie Hackers](https://www.indiehackers.com/)
+3. [X - Twitter](https://twitter.com/) with hashtag "buildinginpublic"
+4. [Brazilian Microsaas Community](https://diretorio.microsaas.com.br/)
+5. [Reddit Entrepreneur](https://www.reddit.com/r/Entrepreneur/)
+6. [Reddit Sideproject](https://www.reddit.com/r/SideProject/)
+7. [Reddit Microsaas](https://www.reddit.com/r/microsaas/)
+8. [Beta List](https://betalist.com/)
+9. [Beta Bound](https://www.betabound.com/)
+10. [Beta Testing](https://betatesting.com/)
+11. [Launching Next](https://www.launchingnext.com/)
+12. [The Startup Pitch](https://thestartuppitch.com/)
+13. [Microns](https://www.microns.io/)
+14. [Tabnews](https://www.tabnews.com.br/)
+15. [Microsaas Apps](https://www.microsaasapps.com/list)
+16. [Made with Laravel](https://madewithlaravel.com/)
+17. [Wappalyzer](https://www.wappalyzer.com/)
+18. [Awwwards](https://www.awwwards.com/)
+19. [G2](https://www.g2.com/)
+20. [Capterra](https://www.capterra.com/vendors/sign-up/)
+21. [GetApp](https://www.getapp.com/)
+22. [Paggu](https://www.paggu.com/submit-your-startup/)
+23. [AlternativeTo](https://alternativeto.net/)
+24. [Technology Advice](https://solutions.technologyadvice.com/list-your-product/)
+25. [Crunchbase](https://www.crunchbase.com/)
+26. [Trust Radius](https://www.trustradius.com/) in Vendor Solutions
+27. [Software Advice](https://www.softwareadvice.com/vendors/)
+28. [News in Y combinator](https://news.ycombinator.com/)
