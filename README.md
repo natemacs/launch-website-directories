@@ -28,3 +28,4 @@
 26. [Trust Radius](https://www.trustradius.com/) in Vendor Solutions
 27. [Software Advice](https://www.softwareadvice.com/vendors/)
 28. [News in Y combinator](https://news.ycombinator.com/)
+29. [Saas Starters](https://listskit.com/saasstarters/) for microsaas boilerplate developers
