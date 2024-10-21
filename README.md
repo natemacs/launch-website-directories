@@ -92,4 +92,5 @@
 90. [Devhunt](https://devhunt.org/)
 91. [G2 Crowd](https://www.g2.com/)
 92. [100L5](https://10015.io/product-finder)
+93. [IndieLaunch](https://www.indielaun.ch/)
 
